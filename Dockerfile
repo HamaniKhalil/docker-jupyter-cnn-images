@@ -4,5 +4,5 @@ RUN conda install -y \
         jupyter \
         matplotlib \
         seaborn \
-        -c anaconda pillow
+        pillow
 
