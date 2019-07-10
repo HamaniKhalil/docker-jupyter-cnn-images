@@ -1,4 +1,4 @@
-FROM ermaker/keras
+FROM lefant/python3-keras
 
 RUN pip install tensorflow --upgrade \
 	opencv-python-headless
