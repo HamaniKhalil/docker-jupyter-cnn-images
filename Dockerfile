@@ -14,4 +14,5 @@ RUN pip3 install tensorflow==1.13.1 \
 	matplotlib \
 	numpy \
 	scipy \
-	unidecode
+	unidecode \
+	talos
